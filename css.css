@@ -4,3 +4,7 @@
 .match-scoreboard__status-summary {
   display: none; 
 }
+
+.mc-header__score-wrapper {
+  display: none; 
+}
