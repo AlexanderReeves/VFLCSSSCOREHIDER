@@ -1,3 +1,6 @@
 .match-scoreboard__score {
   display: none;
 }
+.match-scoreboard__status-summary {
+  display: none; 
+}
